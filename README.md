@@ -1,5 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!-- KRISHIV VELOCITY — ALT ACCOUNT · CYBERPUNK PROFILE v1.0      -->
+<!-- KRISHIV PB — ALT ACCOUNT · CYBERPUNK PROFILE v1.0      -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <!-- Animated Wave Header -->
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/🔗%20Main%20Account-Krylo--60-00f2ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=050a14" alt="Main Account"/>
 </a>
 <a href="https://krishiv-new-portfoilo.vercel.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Krishiv%20Velocity-00f2ff?style=for-the-badge&logo=vercel&logoColor=050a14&labelColor=050a14" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Krishiv%20PB-00f2ff?style=for-the-badge&logo=vercel&logoColor=050a14&labelColor=050a14" alt="Portfolio"/>
 </a>
 </p>
 
