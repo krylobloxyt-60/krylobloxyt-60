@@ -63,7 +63,7 @@
 
 <!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=krylobloxyt-60&theme=tokyonight&background=050a14&ring=7000ff&fire=00f2ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7bdcff&sideLabels=7bdcff&dates=7bdcff&hide_border=true" alt="GitHub Streak" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=krylobloxyt-60&theme=tokyonight&background=050a14&ring=7000ff&fire=00f2ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7bdcff&sideLabels=7bdcff&dates=7bdcff&hide_border=true" alt="GitHub Streak" width="370"/>
 </a>
 
 </td>
@@ -79,13 +79,13 @@
 ### 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=krylobloxyt-60&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=7000ff&text_color=edf7ff&icon_color=00f2ff&rank_icon=github" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krylobloxyt-60&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=7000ff&text_color=edf7ff&icon_color=00f2ff&rank_icon=github" alt="GitHub Stats" width="370"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krylobloxyt-60&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=7000ff&text_color=edf7ff&icon_color=00f2ff" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krylobloxyt-60&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a14&title_color=7000ff&text_color=edf7ff&icon_color=00f2ff" alt="Top Languages" width="370"/>
 </a>
 
 </td>
